@@ -12,7 +12,8 @@
     
 - Ngoài ra việc XOR một kí tự ASCII với space sẽ đổi chỗ kí tự các cột 1-2, 3-4 tương ứng trong bảng sau
     
-    ![Untitled](Many%20Time%20Pad%203fbc6785bec54599b9832c06cfc4eca0/Untitled.png)
+    <img width="800" alt="Untitled" src="https://github.com/NgoCanhPP/many-time-pad/assets/88614136/dd554659-1733-41bc-a55a-a9bf74f67df6">
+
     
     Nguồn: wikipedia.org
     
