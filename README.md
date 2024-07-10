@@ -11,7 +11,7 @@ Project 1: Many time pad - Nhập môn An toàn thông tin (Thầy Trần Vĩnh 
     
     $y_1\oplus y_2= (x_1\oplus k)\oplus (x_2\oplus k) = (x_1\oplus k)\oplus (k\oplus x_2) = x_1\oplus (k\oplus k)\oplus x_2) =x_1 \oplus x_2$
     
-- Ngoài ra việc XOR một kí tự ASCII với space sẽ đổi chỗ kí tự các cột 1-2, 3-4 tương ứng trong bảng sau
+- Ngoài ra việc XOR một kí tự ASCII với kí tự space " " sẽ đổi chỗ kí tự các cột 1-2, 3-4 tương ứng trong bảng sau
     
     <img width="800" alt="Untitled" src="https://github.com/NgoCanhPP/many-time-pad/assets/88614136/dd554659-1733-41bc-a55a-a9bf74f67df6">
 
@@ -54,3 +54,8 @@ Sau khi có được kết quả từ bước 3. Dự đoán được mã cần 
 ‘The secret message is: When using a string cipher, never use the key more than once’
 
 Các kí tự dấu ‘:’ và dấu ‘,’ được dự đoán bởi kết quả từ bước 2 khi mà ở vị trí của dấu ‘:’, ciphertext thứ 5 sau khi XOR với vị trí này của mã cần giải được hex là ‘1A’ - là kết quả của việc XOR dấu ‘:’ và dấu cách, tương tự cho dấu ‘,’
+
+Viết lơ mơ và gà mờ. Mong mọi người đọc và hiểu được đừng như sau:
+""" Dear programmer:
+When I wrote this code, only god and I knew how it worked.
+Now, only god knows it! """
