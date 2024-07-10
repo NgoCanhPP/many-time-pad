@@ -55,7 +55,3 @@ Sau khi có được kết quả từ bước 3. Dự đoán được mã cần 
 
 Các kí tự dấu ‘:’ và dấu ‘,’ được dự đoán bởi kết quả từ bước 2 khi mà ở vị trí của dấu ‘:’, ciphertext thứ 5 sau khi XOR với vị trí này của mã cần giải được hex là ‘1A’ - là kết quả của việc XOR dấu ‘:’ và dấu cách, tương tự cho dấu ‘,’
 
-Viết lơ mơ và gà mờ. Mong mọi người đọc và hiểu được đừng như sau:
-""" Dear programmer:
-When I wrote this code, only god and I knew how it worked.
-Now, only god knows it! """
